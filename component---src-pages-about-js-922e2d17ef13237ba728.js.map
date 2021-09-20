@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-about-js-922e2d17ef13237ba728.js","mappings":"8HAMA,UAJkB,WAChB,OAAO","sources":["webpack://ekb-website/./src/pages/about.js"],"sourcesContent":["import * as React from 'react';\r\n\r\nconst AboutPage = () => {\r\n  return null;\r\n}\r\n\r\nexport default AboutPage;"],"names":[],"sourceRoot":""}
