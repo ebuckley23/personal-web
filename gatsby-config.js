@@ -10,6 +10,7 @@ else {
 }
 
 module.exports = {
+  pathPrefix: '/personal-web',
   siteMetadata: {
     siteUrl: "https://www.ebuckley.io",
     title: "Emmanuel Buckley",
@@ -28,7 +29,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
-        trackingId: "",
+        trackingId: process.env.GA_TRACKING_ID
       },
     },
     {
