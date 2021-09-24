@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkekb_website=self.webpackChunkekb_website||[]).push([[682],{5518:function(e,t,l){l.r(t);var n=l(7294);t.default=function(){return n.createElement("div",null,n.createElement("title",null,"About Me"),n.createElement("h1",null,"Emmanuel Buckley"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-83a86e71f045827b037c.js.map
